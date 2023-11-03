@@ -1,3 +1,11 @@
+## What is this?
+Awaiting the release of Nefarius and (creators of) DSX' VirtualPad, it'd be a replacer of what is currently used (ScpToolkit).
+
+## Why?
+Previously, I stumbled upon some issues I had with ScpToolkit that caused me to want a port. (One of this was a BSOD while playing games with or without emulated controllers)
+With this port I aim to rid this issue and possible more (unknown to me) issues.
+
+# Old readme
 # About
 There are two different applications here, **WiinUPro** and **WiinUSoft**. Both are free to use.
 
