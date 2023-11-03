@@ -1,5 +1,5 @@
 ## What is this?
-Awaiting the release of Nefarius and (creators of) DSX' VirtualPad, it'd be a replacer of what is currently used (ScpToolkit).
+Awaiting the release of Nefarius and (creators of) DSX' [VirtualPad](https://docs.nefarius.at/projects/VirtualPad/), it'd be a replacer of what is currently used (ScpToolkit).
 
 ## Why?
 Previously, I stumbled upon some issues I had with ScpToolkit that caused me to want a port. (One of this was a BSOD while playing games with or without emulated controllers)
